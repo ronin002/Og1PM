@@ -1,0 +1,21 @@
+html {
+    font-size: 14px;
+  }
+
+  @media (min-width: 768px) {
+    html {
+      font-size: 16px;
+    }
+  }
+
+  html {
+    position:absolute;
+    min-height: 100%;
+    align-items: center;
+    justify-items: center;
+  }
+
+  body {
+    margin-bottom: 60px;
+    float:left ;
+  }
